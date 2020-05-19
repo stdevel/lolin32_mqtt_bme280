@@ -1,0 +1,3 @@
+// WLAN configuration
+const char* wifi_ssid = "<ssid>";
+const char* wifi_password = "<password>";

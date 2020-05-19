@@ -1,0 +1,10 @@
+// MQTT configuration
+#define mqtt_server "127.0.0.1"
+#define mqtt_user "sensor_bath"
+#define mqtt_password "..."
+#define mqtt_client "sensor_bath"
+
+// topics
+#define temperature_topic "sensor_bath/temperature"
+#define humidity_topic "sensor_bath/humidity"
+#define debug_topic "sensor_bath/log"
